@@ -1,0 +1,1 @@
+sudo /systen/bin/umount

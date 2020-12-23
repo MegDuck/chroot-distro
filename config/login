@@ -1,0 +1,17 @@
+
+
+chroot-distro v1.0
+
+chroot-distro install <distribution>
+>>>installing choosen distribution on android.
+
+chroot-distro setup <distribution>
+>>>configure/reconfigure your linux-chroot.
+
+chroot-distro login <distribution>
+>>>login to your chroot
+
+chroot-distro help
+>>>display this page.
+
+
